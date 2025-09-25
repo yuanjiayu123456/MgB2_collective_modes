@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "MgB2-collective-modes: dataset for [short description]"
+authors:
+  - family-names: "Yuan"
+    given-names: "Jiayu"
+version: "v1.0.0"
+doi: "10.5281/zenodo.YOUR_DOI_HERE"
+url: "https://doi.org/10.5281/zenodo.YOUR_DOI_HERE"
+date-released: "2025-09-25"
